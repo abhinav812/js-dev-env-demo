@@ -15,7 +15,7 @@
     "test": "mocha --reporter progress buildScripts/testSetup.js \"src/**/*.test.js\"",
     "test:watch" : "npm run test -- --watch"
   },
-  "author": "Cory House",
+  "author": "Abhinav Kumar",
   "license": "MIT",
   "dependencies": {
     "whatwg-fetch": "1.0.0"
